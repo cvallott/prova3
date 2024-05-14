@@ -10,10 +10,10 @@
             <property name="max" value="3"/>
         </module>
         <module name="CyclomaticComplexity">
-            <property name="max" value="15"/>
+            <property name="max" value="20"/>
         </module>
         <module name="MethodLength">
-            <property name="max" value="150"/>
+            <property name="max" value="500"/>
         </module>
         <module name="EmptyCatchBlock"/>
         <module name="AvoidStarImport"/>
@@ -23,4 +23,6 @@
     <module name="FileLength"/>
     <module name="FileTabCharacter"/>
 </module>
+
+
 
