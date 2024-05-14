@@ -2,6 +2,9 @@
 <!DOCTYPE module PUBLIC "-//Puppy Crawl//DTD Check Configuration 1.2//EN"
         "http://www.puppycrawl.com/dtds/configuration_1_2.dtd">
 <module name="Checker">
+    <module name="Header">
+        <property name="headerFile" value="header.txt"/>
+    </module>
     <module name="TreeWalker">
         <module name="BooleanExpressionComplexity">
             <property name="max" value="3"/>
@@ -19,8 +22,7 @@
     </module>
     <module name="FileLength"/>
     <module name="FileTabCharacter"/>
-    <module name="Header">
-        <property name="headerFile" value="header.txt"/>
-    </module>
 </module>
+
+
 
