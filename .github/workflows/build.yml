@@ -1,5 +1,6 @@
 name: Java CI with Maven
 
+<<<<<<< HEAD
 on:
   push:
     branches:  
@@ -9,6 +10,9 @@ on:
 =======
 >>>>>>> develop
 
+=======
+on: [push]
+>>>>>>> 9cf7cedbad155167067b8062c9c3489853632b04
 jobs:
   build:
     runs-on: ubuntu-latest
