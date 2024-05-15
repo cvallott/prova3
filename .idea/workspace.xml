@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80793d17-ecde-4f35-8445-c99c25aacb0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor_filter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor_filter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor_humidity.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor_humidity.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor_light.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor_light.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor_manager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor_manager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor_temperature.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor_temperature.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor_volume.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/sensor_volume.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test2/test2.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/finestra.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/finestra.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/info.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/info.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/sensor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/sensor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/sensor_manager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/sensor_manager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/sensor_observer_interface.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test3/test3.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/charts_layout.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/charts_layout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/confirm_delete_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/confirm_delete_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/general_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/general_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/info_layout.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/info_layout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/modify_sensor_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/modify_sensor_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/sensor_options.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/sensor_options.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/sensors_list_layout.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/sensors_list_layout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/single_sensor_layout.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/single_sensor_layout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/test6.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/top_layout.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test6/top_layout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test7/sensor_observer_interface.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/charts_layout.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/charts_layout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/confirm_delete_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/confirm_delete_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/general_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/general_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/info_layout.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/info_layout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/modify_sensor_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/modify_sensor_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_filter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_filter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_humidity.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_humidity.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_light.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_light.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_manager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_manager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_observer_interface.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_options.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_options.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_temperature.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_temperature.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_volume.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensor_volume.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensors_list_layout.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/sensors_list_layout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/single_sensor_layout.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/single_sensor_layout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/test8.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/top_layout.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/test8/top_layout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/testchatgpt/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/testchatgpt/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/testchatgpt/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/testchatgpt/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/testchatgpt/testchatgpt.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/controller.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/controller.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/finestra.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/finestra.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/sensor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/sensor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/sensor_manager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/sensor_manager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/sensor_observer_interface.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneDrive/Desktop/Uni/Secondoanno/P2/DocumentiProgetto/versione1/versione1.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneDrive/Documenti/versione1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneDrive/Documenti/versione1/controller.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneDrive/Documenti/versione1/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneDrive/Documenti/versione1/mainwindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneDrive/Documenti/versione1/mainwindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneDrive/Documenti/versione1/versione1.pro" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2gMnsJvQvxUCpTH5ce63gTjXMtQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.All in prova (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in prova (2).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in prova (3).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in prova.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.IntegerToRomanTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.IntegerToRomanTest.testConvert.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cater/prova3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="it.unipd.mtss" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IntegerToRomanTest">
+    <configuration name="All in prova (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prova" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in prova (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prova" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in prova (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prova" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerToRomanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prova" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unipd.mtss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unipd.mtss" />
+      <option name="MAIN_CLASS_NAME" value="it.unipd.mtss.IntegerToRomanTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerToRomanTest.testConvert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prova" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unipd.mtss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unipd.mtss" />
+      <option name="MAIN_CLASS_NAME" value="it.unipd.mtss.IntegerToRomanTest" />
+      <option name="METHOD_NAME" value="testConvert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IntegerToRomanTest" />
+        <item itemvalue="JUnit.IntegerToRomanTest.testConvert" />
+        <item itemvalue="JUnit.All in prova (3)" />
+        <item itemvalue="JUnit.All in prova (2)" />
+        <item itemvalue="JUnit.All in prova (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80793d17-ecde-4f35-8445-c99c25aacb0b" name="Changes" comment="" />
+      <created>1715516520428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715516520428</updated>
+      <workItem from="1715516521640" duration="3964000" />
+      <workItem from="1715520526429" duration="5357000" />
+      <workItem from="1715591442278" duration="6682000" />
+      <workItem from="1715611345237" duration="526000" />
+      <workItem from="1715690381403" duration="239000" />
+      <workItem from="1715691445777" duration="1017000" />
+      <workItem from="1715694948524" duration="1506000" />
+      <workItem from="1715713109386" duration="284000" />
+      <workItem from="1715714833596" duration="775000" />
+      <workItem from="1715752219274" duration="1995000" />
+      <workItem from="1715769935287" duration="751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/prova$IntegerToRomanTest.ic" NAME="IntegerToRomanTest Coverage Results" MODIFIED="1715695668136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>it.unipd.mtss.*</FILTER>
+    </SUITE>
+  </component>
+</project>
