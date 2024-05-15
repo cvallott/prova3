@@ -4,7 +4,10 @@ on:
   push:
     branches:  
       - develop
+<<<<<<< HEAD
       - main
+=======
+>>>>>>> develop
 
 jobs:
   build:
@@ -22,8 +25,13 @@ jobs:
         cache: maven
         
     - name: Build with Maven
+<<<<<<< HEAD
       run: mvn -B install --file pom.xml
       #run: mvn -B clean package jacoco:report
+=======
+      #run: mvn -B install --file pom.xml
+      run: mvn -B clean package jacoco:report
+>>>>>>> develop
             
     - name: Coveralls
       run: mvn -B coveralls:report --define repoToken=${{ secrets.COVERALLS_TOKEN }}
