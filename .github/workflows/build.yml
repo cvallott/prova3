@@ -1,18 +1,7 @@
 name: Java CI with Maven
 
-<<<<<<< HEAD
-on:
-  push:
-    branches:  
-      - develop
-<<<<<<< HEAD
-      - main
-=======
->>>>>>> develop
-
-=======
 on: [push]
->>>>>>> 9cf7cedbad155167067b8062c9c3489853632b04
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,13 +18,6 @@ jobs:
         cache: maven
         
     - name: Build with Maven
-<<<<<<< HEAD
       run: mvn -B install --file pom.xml
-      #run: mvn -B clean package jacoco:report
-=======
-      #run: mvn -B install --file pom.xml
-      run: mvn -B clean package jacoco:report
->>>>>>> develop
-            
     - name: Coveralls
       run: mvn -B coveralls:report --define repoToken=${{ secrets.COVERALLS_TOKEN }}
